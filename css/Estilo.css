@@ -1,0 +1,47 @@
+.button{
+    -fx-border-color: #e2e2e2;
+    -fx-border-width: 2;
+    -fx-background-radius: 0;
+    -fx-background-color: #1d1d1d;
+   	-fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    -fx-font-size: 11pt;
+    -fx-text-fill: #d8d8d8
+}
+
+.root{
+    -fx-font-size: 16pt;
+    -fx-font-family: "Segoe";
+   	-fx-background-color: #1d1d1d;
+   	-fx-text-fill: #d8d8d8;
+    -fx-background-image: url('panditas.jpg');
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 1400 1000
+}
+
+#lblContra{
+	-fx-text-fill: #d8d8d8;
+}
+
+#lblNickname{
+	-fx-text-fill: #d8d8d8;
+}
+
+#lblPresentacion{
+  -fx-text-fill: #d8d8d8;
+}
+
+#lblIngreso{
+   -fx-text-fill: #d8d8d8;
+}
+
+#lblTipo{
+   -fx-text-fill: #d8d8d8;
+}
+
+#lblCaty{
+    -fx-text-fill: #d8d8d8;
+}
+
+#lblCategoria{
+    -fx-text-fill: #d8d8d8;
+}
